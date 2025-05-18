@@ -34,7 +34,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: PREETHI D
 RegisterNumber: 212224040250
 ```
-```
+
 **Import Required Libraries**
 ```
 import pandas as pd
